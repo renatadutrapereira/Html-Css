@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body {
+    background-color:palegoldenrod;
+    color:darkgoldenrod;
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:darkgoldenrod;
+}
