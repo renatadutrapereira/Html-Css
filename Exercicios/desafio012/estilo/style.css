@@ -24,7 +24,7 @@ html, body {
 }
 
 header {
-    background-color:lightsalmon;
+    background-color: #293D06;
     color: white;
     text-align: center;
     font-family: var(--fonte3);
@@ -97,7 +97,7 @@ section#img02 {
 }
 
 footer {
-    background-color: lightsalmon;
+    background-color: #293D06;
     color: white;
     text-align: center;
     padding: 10px;
